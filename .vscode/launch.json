@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-TresEnrayaApplication<tres_enraya>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "pe.edu.upeu.tres_enraya.TresEnrayaApplication",
+            "projectName": "tres_enraya",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
